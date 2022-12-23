@@ -1,0 +1,12 @@
+sales       大盒子
+
+caption     小盒子
+
+
+dataset.数组名
+dataset['数组名']
+
+setInterval  定时器
+ clearInterval(itmer)
+
+hover
